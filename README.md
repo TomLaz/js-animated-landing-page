@@ -4,6 +4,7 @@
 
 ![Example](https://github.com/TomLaz/js-animated-landing-page/blob/main/public/example1.png)
 <h1 />
+
 ![Demo](https://github.com/TomLaz/js-animated-landing-page/blob/main/public/Example.gif?raw=true)
 <h1 />
 
